@@ -1,0 +1,1 @@
+{"name":"Local: goals of victory","url":"/Users/raisa/Desktop/CodeForces/800_rating/goals of victory.cpp","tests":[{"id":1761068013440,"input":"2\n4\n3 -4 5\n11\n-30 12 -57 7 0 -81 -68 41 -89 0\n","output":"-4\n265\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/raisa/Desktop/CodeForces/800_rating/goals of victory.cpp","group":"local","local":true}

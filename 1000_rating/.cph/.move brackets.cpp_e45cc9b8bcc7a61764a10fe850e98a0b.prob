@@ -1,0 +1,1 @@
+{"name":"Local: move brackets","url":"/Users/raisa/Desktop/CodeForces/1000_rating/move brackets.cpp","tests":[{"id":1763216476566,"input":"4\n2\n)(\n4\n()()\n8\n())()()(\n10\n)))((((())\n","output":"1\n0\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/raisa/Desktop/CodeForces/1000_rating/move brackets.cpp","group":"local","local":true}

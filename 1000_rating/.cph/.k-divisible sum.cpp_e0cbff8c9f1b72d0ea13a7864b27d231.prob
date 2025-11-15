@@ -1,0 +1,1 @@
+{"name":"Local: k-divisible sum","url":"/Users/raisa/Desktop/CodeForces/1000_rating/k-divisible sum.cpp","tests":[{"id":1755095426903,"input":"4\n1 5\n4 3\n8 8\n8 17\n","output":"5\n2\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/raisa/Desktop/CodeForces/1000_rating/k-divisible sum.cpp","group":"local","local":true}

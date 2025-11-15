@@ -1,0 +1,1 @@
+{"name":"Local: unique number","url":"/Users/raisa/Desktop/CodeForces/900_rating/900_rating/unique number.cpp","tests":[{"id":1760180698948,"input":"4\n1\n5\n15\n50\n","output":"1\n5\n69\n-1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/raisa/Desktop/CodeForces/900_rating/900_rating/unique number.cpp","group":"local","local":true}
